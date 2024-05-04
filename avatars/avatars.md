@@ -2,10 +2,10 @@
 ### 1. 과제 해결 과정
 1) 이미지 8개를 각각 4개씩 클래스로 묶었다.
 
-- 클래스
-  1) main
-   (1) img-container1/container(img 4개)
-   (2) img-container2/container(img 4개)
+ * 클래스
+ - main
+ - img-container1/container(img 4개)
+ - img-container2/container(img 4개)
 
 
 2) .container img 로 이미지의 크기, 간격, 라운드를 조정했다.
