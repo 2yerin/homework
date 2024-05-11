@@ -3,23 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <title>아바타 컴포넌트</title>
   <link rel="stylesheet" href="./avatars.css" />
 </head>
 <body>
-  <main class="main">
-    <div class="img-container1 container">
-      <img src="../images/faces/face1.jpg" alt="여자 얼굴1" />
-      <img src="../images/faces/face2.jpg" alt="여자 얼굴2" />
-      <img src="../images/faces/face4.png" alt="여자 얼굴3" />
-      <img src="../images/faces/face4.jpg" alt="여자 얼굴4" />
-    </div> 
-    <div class="img-container2 container">
-      <img src="../images/faces/face5.jpg" alt="남자 얼굴1" />
-      <img src="../images/faces/face6.jpg" alt="남자 얼굴2" />
-      <img src="../images/faces/face7.jpg" alt="남자 얼굴3" />
-      <img src="../images/faces/face8.jpg" alt="남자 얼굴4" />
-    </div>
-  </main>
+  <!--오프라인-->
+  <figure class="avatar offline">
+    <img src="../images/faces/face1.jpg" alt="유저얼굴" />
+    <figcaption aria-label="오프라인"></figcaption>
+  </figure>
+  <!--온라인-->
+  <figure class="avatar online">
+    <img src="../images/faces/face5.jpg" alt="유저얼굴" />
+    <figcaption aria-label="온라인"></figcaption>
+  </figure>
 </body>
 </html>
