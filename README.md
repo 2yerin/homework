@@ -3,3 +3,4 @@
 
 ## html/css
 1. float, flex 사용해서 이미지 레이아웃
+   : https://github.com/2yerin/homework/blob/main/avatars/avatars.md
