@@ -7,3 +7,6 @@
 
 2. naver 로그인 화면
 : https://github.com/2yerin/homework/tree/main/naver
+
+3. apple 메인 화면(카드 컴포넌트)
+: https://github.com/2yerin/homework/tree/main/apple
