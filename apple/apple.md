@@ -12,8 +12,11 @@
 - price-info-button: 가격 보기 버튼
 - blue-button-empty: 투명한 파란 틀 버튼
 - black-button-empty: 투명한 검은 틀 버튼
-1)
+
+- 카드 컴포넌트 마크업
 ![KakaoTalk_20240518_233800552](https://github.com/2yerin/homework/assets/86153067/7a4f6c1f-5f75-4783-bdc3-03199dfa06f2)
+
+- 전체 틀
 ![KakaoTalk_20240518_233800552_01](https://github.com/2yerin/homework/assets/86153067/f14cae95-bd88-4b8d-af0b-9c4287e87d5f)
 
 
