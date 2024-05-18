@@ -1,7 +1,7 @@
 # apple 제품 카드
 
 1. 마크업
-post, card: 카드 컴포넌트 디자인을 위해 묶은 클래스
+- post, card: 카드 컴포넌트 디자인을 위해 묶은 클래스
 h2: 제품 제목
 product-subtitle: 부제목(제품 설명)
 release-date: 출시일
