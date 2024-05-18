@@ -13,6 +13,7 @@
 - blue-button-empty: 투명한 파란 틀 버튼
 - black-button-empty: 투명한 검은 틀 버튼
 
+
 - 카드 컴포넌트 마크업
 ![KakaoTalk_20240518_233800552](https://github.com/2yerin/homework/assets/86153067/7a4f6c1f-5f75-4783-bdc3-03199dfa06f2)
 
