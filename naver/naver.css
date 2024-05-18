@@ -66,3 +66,16 @@
     list-style-type: none
   }
 }
+
+/*IP보안 체크박스*/
+.ip-group{
+  display: flex;
+  flex-direction: row;
+
+  /*on,off 스위치*/
+  .form-checkbox{
+    position: relative;
+
+    
+  }
+}
